@@ -1,0 +1,6 @@
+{
+  "name": "InovaTech Gestão de Estoques",
+  "description": "Sistema completo de controle de estoque, rastreabilidade de materiais, auditoria cíclica e prevenção de rupturas para manufatura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
